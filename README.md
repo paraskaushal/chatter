@@ -1,6 +1,6 @@
 # Chatter
 
-> Cross Platform chatting developed in React Native.
+> Cross Platform chatting app developed in React Native.
 
 ## Technical stack
 - [React Native](https://facebook.github.io/react-native/)
